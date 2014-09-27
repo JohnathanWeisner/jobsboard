@@ -7,9 +7,11 @@ Step 1: Create A Rails App
 $git checkout 7835c29
 
 
+
 Step 2: Make A Jobs Home Page
 
 $git checkout a0997a3
+
 
 
 Step 3: Store Jobs In The Database
@@ -17,9 +19,11 @@ Step 3: Store Jobs In The Database
 $git checkout 47c5f0c
 
 
+
 Step 4: Add A New Job Form
 
 $git checkout b4ac33e
+
 
 
 Step 5: Make The Form Work
@@ -27,9 +31,11 @@ Step 5: Make The Form Work
 $git checkout 3062d75
 
 
+
 Step 6: Listing The Jobs
 
 $git checkout 37aed0d
+
 
 
 Step 7: Add A Navbar
@@ -37,9 +43,11 @@ Step 7: Add A Navbar
 $git checkout 7f23e112
 
 
+
 Step 8: Update Job Listings
 
 $git checkout 89c5c793
+
 
 
 Step 9: Delete Job Listings
