@@ -1,28 +1,40 @@
-== README
+##Step by step commits of the RailsBridge Job Board Curriculum
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+(Don't type $. $ just signifies that this is a command in the terminal)
 
-Things you may want to cover:
+Step 1: Create A Rails App
+```$git checkout 41b3f6```
 
-* Ruby version
+Step 2: Make A Jobs Home Page
+```$git checkout 7835c2```
 
-* System dependencies
+Step 3: Store Jobs In The Database
+```$git checkout a0997```
 
-* Configuration
+Step 4: Add A New Job Form
+```$git checkout 47c5f0```
 
-* Database creation
+Step 5: Make The Form Work
+```$git checkout b4ac33e```
 
-* Database initialization
+Step 6: Listing The Jobs
+```$git checkout 3062d75```
 
-* How to run the test suite
+Step 7: Add A Navbar
+```$git checkout 37aed0d```
 
-* Services (job queues, cache servers, search engines, etc.)
+Step 8: Update Job Listings
+```$git checkout 7f23e11```
 
-* Deployment instructions
+Step 9: Delete Job Listings
+```$git checkout 89c5c7````
 
-* ...
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+
+
+
+
+
+
