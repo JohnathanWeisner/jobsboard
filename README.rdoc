@@ -1,33 +1,33 @@
-##Step by step commits of the RailsBridge Job Board Curriculum
+Step by step commits of the RailsBridge Job Board Curriculum
 
 (Don't type $. $ just signifies that this is a command in the terminal)
 
 Step 1: Create A Rails App
-```$git checkout 41b3f6```
+$git checkout 41b3f6
 
 Step 2: Make A Jobs Home Page
-```$git checkout 7835c2```
+$git checkout 7835c2
 
 Step 3: Store Jobs In The Database
-```$git checkout a0997```
+$git checkout a0997
 
 Step 4: Add A New Job Form
-```$git checkout 47c5f0```
+$git checkout 47c5f0
 
 Step 5: Make The Form Work
-```$git checkout b4ac33e```
+$git checkout b4ac33e
 
 Step 6: Listing The Jobs
-```$git checkout 3062d75```
+$git checkout 3062d75
 
 Step 7: Add A Navbar
-```$git checkout 37aed0d```
+$git checkout 37aed0d
 
 Step 8: Update Job Listings
-```$git checkout 7f23e11```
+$git checkout 7f23e11
 
 Step 9: Delete Job Listings
-```$git checkout 89c5c7````
+$git checkout 89c5c7
 
 
 
